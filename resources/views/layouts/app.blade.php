@@ -59,7 +59,7 @@ https://templatemo.com/tm-567-nomad-force
         <nav class="navbar navbar-expand-lg bg-light shadow-lg">
             <div class="container">
 
-                <a class="navbar-brand" href="/">
+                <a class="navbar-brand" href="<?php  echo route('inicio');?>">
                     <strong>CTC Indumentaria</strong>
                 </a>
     

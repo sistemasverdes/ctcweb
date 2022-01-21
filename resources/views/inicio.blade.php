@@ -17,7 +17,9 @@
                 </div>
 
                 <div class="col-lg-6 col-12 mt-lg-3 mb-lg-5">
-                    <p data-aos="fade-up" data-aos-delay="500">Hemos creado un emprendimiento textil que nos permite mostrar la calidad de nuestro trabajo. Fuimos hilvanando este proyecto que hoy es realidad: una cooperativa de trabajo que nos permite vivir y generar nuestra propia fuente de recursos dignamente.<br> Pusimos nuestro empeño, creatividad e ideas en sincronía, con organización y perseverancia constante.</p>
+                    <p data-aos="fade-up" data-aos-delay="500">Hemos creado un emprendimiento textil que nos permite mostrar la calidad de nuestro trabajo. Fuimos hilvanando este proyecto que hoy es realidad: una cooperativa de trabajo que nos permite vivir y generar nuestra propia fuente de recursos dignamente.<br> 
+                        Pusimos nuestro empeño, creatividad e ideas en sincronía, con organización y perseverancia constante.</p>
+                        <a href="<?php  echo route('nosotros');?>" class="nav-link">->Leer mas...</a>                    
                 </div>
 
             </div>
