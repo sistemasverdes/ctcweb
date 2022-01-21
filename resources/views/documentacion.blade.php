@@ -82,22 +82,24 @@ https://templatemo.com/tm-567-nomad-force
 
                 <div class="col-lg-9 col-12 mt-3 mb-lg-5">
                     <p class="me-4" data-aos="fade-up" data-aos-delay="300">
-                        Declaración de Interés nª 59 de Cámara de Diputados
+                    <ul>
+                        <li><a href="">Declaración de Interés nª 59 de Cámara de Diputados</a></li>
 
-                        Constancia de Adhesión INTI.
+                        <li><a href="">Constancia de Adhesión INTI.</a></li>
 
-                        Constancia RIN.
+                        <li><a href="">Constancia RIN.</a></li>
 
-                        Matricula INAES.
+                        <li><a href="">Matricula INAES.</a></li>
 
-                        Habilitación de Local.
+                        <li><a href="">Habilitación de Local.</a></li>
 
-                        Inscripción en Registro de Proveedores de la Municipalidad de Córdoba.
+                        <li><a href="">Inscripción en Registro de Proveedores de la Municipalidad de Córdoba.</a></li>
 
-                        Inscripción en Registro de Proveedores de la Provincia de Entre Ríos.
+                        <li><a href="">Inscripción en Registro de Proveedores de la Provincia de Entre Ríos.</a></li>
 
-                        Inscripción en Regristro de Proveedores de la Provincia de Santa Fe.
-                    </p>
+                        <li><a href="">Inscripción en Regristro de Proveedores de la Provincia de Santa Fe.</a></li>
+                        <ul>
+                            </p>
 
                 </div>
             </div>
