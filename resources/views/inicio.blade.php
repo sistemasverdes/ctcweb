@@ -7,15 +7,17 @@
         <div class="container mb-5 pb-lg-5">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="mb-3" data-aos="fade-up">Let us create...</h2>
+                    <h2 class="mb-3" data-aos="fade-up">Nosotros</h2>
                 </div>
 
                 <div class="col-lg-6 col-12 mt-3 mb-lg-5">
-                    <p class="me-4" data-aos="fade-up" data-aos-delay="300">You may contribute <a rel="nofollow" href="http://paypal.me/templatemo" target="_blank">a small amount</a> via PayPal if <a rel="nofollow" href="https://templatemo.com/tm-567-nomad-force" target="_parent">Nomad Force Template</a> is useful for you. This will absolutely help us to keep creating better CSS templates for you. <br><br>We provide you 100% free templates on TemplateMo website. Images are provided by FreePik and Unsplash websites.</p>
+                    <p class="me-4" data-aos="fade-up" data-aos-delay="300">
+                        Desde 2004 y con el objetivo principal de generar un trabajo digno la Cooperativa de Trabajo del Centro confecciona indumentaria de trabajo; viene desarrollándose en base a la voluntad, esfuerzo y a una convicción clara de trabajo en equipo y superación día a día.
+                    </p>
                 </div>
 
                 <div class="col-lg-6 col-12 mt-lg-3 mb-lg-5">
-                    <p data-aos="fade-up" data-aos-delay="500">This Bootstrap 5 layout is free to use for your business. You are allowed to edit it in any way you like. However, please do not redistribute this template ZIP file for a template download purpose on any other website such as Free CSS collections.</p>
+                    <p data-aos="fade-up" data-aos-delay="500">Hemos creado un emprendimiento textil que nos permite mostrar la calidad de nuestro trabajo. Fuimos hilvanando este proyecto que hoy es realidad: una cooperativa de trabajo que nos permite vivir y generar nuestra propia fuente de recursos dignamente.<br> Pusimos nuestro empeño, creatividad e ideas en sincronía, con organización y perseverancia constante.</p>
                 </div>
 
             </div>
