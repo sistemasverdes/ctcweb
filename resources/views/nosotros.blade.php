@@ -59,7 +59,7 @@ https://templatemo.com/tm-567-nomad-force
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="<?php  echo route('inicio');?>#portfolio">Portfolio</a>
+                        <a class="nav-link" href="<?php  echo route('documentacion');?>">Documentación</a>
                     </li>
 
                     <li class="nav-item">
