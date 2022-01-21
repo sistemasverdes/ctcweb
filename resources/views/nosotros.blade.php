@@ -51,23 +51,23 @@ https://templatemo.com/tm-567-nomad-force
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#hero">Inicio</a>
+                        <a class="nav-link" href="<?php  echo route('inicio');?>">Inicio</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">Nosotros</a>
+                        <a class="nav-link" href="<?php  echo route('inicio');?>#about">Nosotros</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#portfolio">Portfolio</a>
+                        <a class="nav-link" href="<?php  echo route('inicio');?>#portfolio">Portfolio</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#news">Noticias</a>
+                        <a class="nav-link" href="<?php  echo route('inicio');?>#news">Noticias</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contacto</a>
+                        <a class="nav-link" href="<?php  echo route('inicio');?>#contact">Contacto</a>
                     </li>
                 </ul>
             </div>

@@ -70,11 +70,11 @@ https://templatemo.com/tm-567-nomad-force
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav mx-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="#hero">Inicio</a>
+                            <a class="nav-link" href="<?php  echo route('inicio');?>">Inicio</a>
                         </li>
     
                         <li class="nav-item">
-                            <a class="nav-link" href="#about">Nosotros</a>
+                            <a class="nav-link" href="<?php  echo route('inicio');?>#about">Nosotros</a>
                         </li>
     
                         <li class="nav-item">
