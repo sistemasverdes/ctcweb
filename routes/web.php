@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\MailController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/', function () {    
     return view('inicio');
 })->name('inicio');
 
@@ -24,3 +24,5 @@ Route::get('/nosotros', function (){
 Route::get('/documentacion', function (){
     return view('documentacion');
 })->name('documentacion');
+
+Route::post('/email/send', MailController::class)->name('sendemail');

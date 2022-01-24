@@ -272,14 +272,14 @@
 
                     <h2 class="mb-4 text-center" data-aos="fade-up">Envíanos un mensaje</h2>
 
-                    <form action="#" method="post" class="contact-form" role="form" data-aos="fade-up">
-
+                    <form class="contact-form" role="form" data-aos="fade-up" action="{{ route('sendemail') }}" method="POST">
+                        {{ csrf_field() }}
                         <div class="row">
                             
                             <div class="col-lg-6 col-6">
-                                <label for="name" class="form-label">Nombre <sup class="text-danger">*</sup></label>
+                                <label for="nombre" class="form-label">Nombre <sup class="text-danger">*</sup></label>
 
-                                <input type="text" name="name" id="name" class="form-control" placeholder="Nombre completo" required>
+                                <input type="text" name="nombre" id="name" class="form-control" placeholder="Nombre completo" required>
                             </div>
 
                             <div class="col-lg-6 col-6">
@@ -301,25 +301,25 @@
 
                             <div class="col-lg-4 col-12">
                                 <div class="form-check">
-                                    <input type="checkbox" id="checkbox1" name="checkbox1" class="form-check-input">
+                                    <input type="checkbox" id="checkbox1" name="indumentaria" class="form-check-input">
 
-                                    <label class="form-check-label" for="checkbox1">Indumentaria</label>
+                                    <label class="form-check-label" for="indumentaria">Indumentaria</label>
                                   </div>
                             </div>
 
                             <div class="col-lg-4 col-12 my-2 my-lg-0">
                                 <div class="form-check">
-                                    <input type="checkbox" id="checkbox2" name="checkbox2" class="form-check-input">
+                                    <input type="checkbox" id="checkbox2" name="diseño" class="form-check-input">
 
-                                    <label class="form-check-label" for="checkbox2">Diseño</label>
+                                    <label class="form-check-label" for="diseño">Diseño</label>
                                   </div>
                             </div>
 
                             <div class="col-lg-4 col-12">
                                 <div class="form-check">
-                                    <input type="checkbox" id="checkbox3" name="checkbox3" class="form-check-input">
+                                    <input type="checkbox" id="checkbox3" name="bordado" class="form-check-input">
 
-                                    <label class="form-check-label" for="checkbox3">Bordado</label>
+                                    <label class="form-check-label" for="bordado">Bordado</label>
                                   </div>
                             </div>
                         </div>
