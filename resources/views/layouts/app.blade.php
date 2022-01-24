@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="es">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CTC Indumentaria</title>
+    <title>CTC Indumentaria | @yield('title')</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,27 +51,7 @@ https://templatemo.com/tm-567-nomad-force
     @endif
 
     <!-- fin de area notificación -->
-    <section class="hero" id="hero">
-        <div class="heroText">
-            <h1 class="text-white mt-5 mb-lg-4" data-aos="zoom-in" data-aos-delay="800">
-                Cooperativa de Trabajo del Centro
-            </h1>
-
-            <p class="text-secondary-white-color" data-aos="fade-up" data-aos-delay="1000">
-                crea un gran producto para tu <strong class="custom-underline">empresa</strong>
-            </p>
-        </div>
-
-        <div class="videoWrapper">
-            <video autoplay="" loop="" muted="" class="custom-video" poster="{{ asset('videos/ctc_imagen.png') }}">
-                <source src="{{ asset('videos/ctc_final.mp4') }}" type="video/mp4">
-
-                Su navegador no soporta video tag.
-            </video>
-        </div>
-
-        <div class="overlay"></div>
-    </section>
+   @yield('video')
 
     <nav class="navbar navbar-expand-lg bg-light shadow-lg">
         <div class="container">
