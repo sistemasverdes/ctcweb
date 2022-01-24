@@ -1,4 +1,4 @@
-Hello <i>Administrador}</i>,
+Hola <i>Administrador</i>,
 <p>Este es un correo enviado desde la página www.cooperativadelcentro.coop.ar</p>
 
 <p><u>Detalles del correo:</u></p>
