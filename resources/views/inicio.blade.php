@@ -24,7 +24,7 @@
 
             </div>
         </div>
-
+<!-- 
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3 col-12 p-0">      
@@ -182,13 +182,13 @@
             </div>
         </div>
     </section>
-
+-->
     <section class="news section-padding" id="news">
         <div class="container">
             <div class="row">
 
                 <div class="col-12">
-                    <h2 class="mb-5 text-center" data-aos="fade-up">News & Events</h2>
+                    <h2 class="mb-5 text-center" data-aos="fade-up">Noticias</h2>
                 </div>
 
                 <div class="col-lg-6 col-12 mb-5 mb-lg-0">
