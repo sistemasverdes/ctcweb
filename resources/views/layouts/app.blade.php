@@ -98,7 +98,7 @@ https://templatemo.com/tm-567-nomad-force
 
     <section class="google-map">
         <iframe
-            src="https://maps.google.com/maps?q=Emilio+Carafa+2445,+Paraná,+Entre+Ríos+Argentina&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=Emilio+Carafa+2545,+Paraná,+Entre+Ríos+Argentina&t=&z=13&ie=UTF8&iwloc=&output=embed"
             class="map-iframe" width="100%" height="400" style="border:0;" allowfullscreen=""
             loading="lazy"></iframe>
     </section>
@@ -122,8 +122,18 @@ https://templatemo.com/tm-567-nomad-force
                     </a>
                 </div>
 
+<<<<<<< HEAD
                 <div class="col-lg-4">
                     <img src="{{ asset('images/logos/cropped_logo.png') }}" class="mx-auto d-block" alt="">
+=======
+                <div class="col-6">
+                    <class="copyright-text mb-0">Copyright © CTC 2022
+
+                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">TemplateMo</a><br><br>
+
+                        </class="copyright-text mb-0">
+
+>>>>>>> ca8f7ed1598aa6ad7e54d3b5426923852dbf8732
                 </div>
 
                 <div class="col-lg-4 col-5 ms-auto text-center">
