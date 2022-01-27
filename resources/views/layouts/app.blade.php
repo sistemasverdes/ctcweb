@@ -125,7 +125,7 @@ https://templatemo.com/tm-567-nomad-force
                     <img src="{{ asset('images/logos/cropped_logo.png') }}" class="mx-auto d-block" alt="">
                 </div>
 
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-4 text-center mt-lg-0 mt-3">
                     <ul class="social-icon">
                         <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
