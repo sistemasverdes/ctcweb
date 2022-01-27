@@ -106,7 +106,6 @@ https://templatemo.com/tm-567-nomad-force
     <footer class="site-footer">
         <div class="container">
             <div class="row">
-
                 <div class="col-lg-4">
                     <h5 class="text-white">
                         <i class="bi-geo-alt-fill me-2"></i>
@@ -124,17 +123,9 @@ https://templatemo.com/tm-567-nomad-force
 
                 <div class="col-lg-4">
                     <img src="{{ asset('images/logos/cropped_logo.png') }}" class="mx-auto d-block" alt="">
-
-                <div class="col-6">
-                    <class="copyright-text mb-0">Copyright © CTC 2022
-
-                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">TemplateMo</a><br><br>
-
-                        </class="copyright-text mb-0">
-
                 </div>
 
-                <div class="col-lg-4 col-5 ms-auto text-center">
+                <div class="col-lg-4 text-center">
                     <ul class="social-icon">
                         <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
@@ -153,7 +144,7 @@ https://templatemo.com/tm-567-nomad-force
                 </div>
 
             </div>
-            <div class="row">
+            <div class="row text-center">
                 <class="copyright-text mb-0 text-center">Copyright © CTC 2022
                     </class="copyright-text mb-0">
             </div>
