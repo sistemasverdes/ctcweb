@@ -3,7 +3,7 @@
 @section('video')
 <section class="hero" id="hero">
     <div class="heroText">
-        <h1 class="text-white mt-5 mb-lg-4" data-aos="zoom-in" data-aos-delay="800">
+        <h1 class="text-white mt-4 mb-lg-4" data-aos="zoom-in" data-aos-delay="800">
             Cooperativa de Trabajo del Centro LTDA.
         </h1>
 
