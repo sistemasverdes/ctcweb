@@ -113,7 +113,7 @@ https://templatemo.com/tm-567-nomad-force
                     </h5>
                     <h6 class="text-white">Entre Ríos - Argentina </h6>
                     <h6 class="text-white">
-                         <span><a href="tel:+543435127861"><i class="bi bi-telephone"></i> (+54) 343 512 7861</a></span>
+                         <span><a href="tel:+543434354568"><i class="bi bi-telephone"></i> (+54) 343 435 4568  interno 20</a></span>
                     </h6>
                     <a href="mailto:info@coooperativadelcentro.coop.ar" class="custom-link mt-3 mb-5">                        
                         <i class="bi bi-envelope"></i>
