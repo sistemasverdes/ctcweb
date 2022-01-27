@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="es">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,6 +20,7 @@
 
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/bootstrap-icons.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 
     <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
 
@@ -34,7 +36,7 @@ https://templatemo.com/tm-567-nomad-force
 -->
 </head>
 
-<body>    
+<body>
     <!-- area de notificacion flash -->
     @if (Session::has('success'))
         <div class="text-center alert alert-success alert-dismissible fade show" role="alert">
@@ -51,7 +53,7 @@ https://templatemo.com/tm-567-nomad-force
     @endif
 
     <!-- fin de area notificación -->
-   @yield('video')
+    @yield('video')
 
     <nav class="navbar navbar-expand-lg bg-light shadow-lg">
         <div class="container">
@@ -111,14 +113,17 @@ https://templatemo.com/tm-567-nomad-force
                         Emilio Carafa 2545, Paraná</br>
                     </h5>
                     <h6 class="text-white">Entre Ríos - Argentina </h6>
-
-                    <a href="mailto:info@coooperativadelcentro.coop.ar" class="custom-link mt-3 mb-5">
+                    <h6 class="text-white">
+                         <span><a href="tel:+543435127861"><i class="bi bi-telephone"></i> (+54) 343 512 7861</a></span>
+                    </h6>
+                    <a href="mailto:info@coooperativadelcentro.coop.ar" class="custom-link mt-3 mb-5">                        
+                        <i class="bi bi-envelope"></i>
                         info@cooperativadelcentro.coop.ar
                     </a>
                 </div>
 
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/logos/cropped_logo.png') }}" class="mx-auto d-block" alt="">                    
+                    <img src="{{ asset('images/logos/cropped_logo.png') }}" class="mx-auto d-block" alt="">
                 </div>
 
                 <div class="col-lg-4 col-5 ms-auto text-center">
@@ -142,10 +147,7 @@ https://templatemo.com/tm-567-nomad-force
             </div>
             <div class="row">
                 <class="copyright-text mb-0 text-center">Copyright © CTC 2022
-
-                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">TemplateMo</a><br><br>
-
-                        </class="copyright-text mb-0">
+                    </class="copyright-text mb-0">
             </div>
             </section>
     </footer>
