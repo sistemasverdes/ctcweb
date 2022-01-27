@@ -127,18 +127,18 @@ https://templatemo.com/tm-567-nomad-force
 
                 <div class="col-lg-4 text-center">
                     <ul class="social-icon">
-                        <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" target="_blank"
+                        <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
 
                         <!-- <li><a href="#" class="social-icon-link bi-twitter"></a></li> -->
 
-                        <li><a href="https://api.whatsapp.com/send?phone=3435127861" target="_blank"
+                        <li><a href="https://api.whatsapp.com/send?phone=3435127861" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-whatsapp"></a></li>
 
-                        <li><a href="https://www.instagram.com/ctc_indumentaria" target="_blank"
+                        <li><a href="https://www.instagram.com/ctc_indumentaria" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-instagram"></a></li>
 
-                        <li><a href="https://www.youtube.com/channel/UC5S06nd1bi7Jhu6LB42OtwA" target="_blank"
+                        <li><a href="https://www.youtube.com/channel/UC5S06nd1bi7Jhu6LB42OtwA" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-youtube"></a></li>
                     </ul>
                 </div>
