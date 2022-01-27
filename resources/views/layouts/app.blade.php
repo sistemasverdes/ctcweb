@@ -105,7 +105,7 @@ https://templatemo.com/tm-567-nomad-force
         <div class="container">
             <div class="row">
 
-                <div class="col-12">
+                <div class="col-lg-4">
                     <h5 class="text-white">
                         <i class="bi-geo-alt-fill me-2"></i>
                         Emilio Carafa 2545, Paraná</br>
@@ -117,16 +117,11 @@ https://templatemo.com/tm-567-nomad-force
                     </a>
                 </div>
 
-                <div class="col-6">
-                    <class="copyright-text mb-0">Copyright © CTC 2021
-
-                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">TemplateMo</a><br><br>
-
-                        </class="copyright-text mb-0">
-
+                <div class="col-lg-4">
+                    <img src="{{ asset('images/logos/cropped_logo.png') }}" class="mx-auto d-block" alt="">                    
                 </div>
 
-                <div class="col-lg-3 col-5 ms-auto">
+                <div class="col-lg-4 col-5 ms-auto text-center">
                     <ul class="social-icon">
                         <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
@@ -144,6 +139,13 @@ https://templatemo.com/tm-567-nomad-force
                     </ul>
                 </div>
 
+            </div>
+            <div class="row">
+                <class="copyright-text mb-0 text-center">Copyright © CTC 2022
+
+                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">TemplateMo</a><br><br>
+
+                        </class="copyright-text mb-0">
             </div>
             </section>
     </footer>
