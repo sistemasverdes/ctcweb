@@ -39,7 +39,7 @@ class DemoEmail extends Mailable
                     ->subject('Mensaje desde cooperativadelcentro.com.ar')
                     ->view('mails.demo')
                     ->text('mails.demo_plain')           
-                    ->attach(public_path('/images').'/logo.png', [
+                    ->attach(public_path('/images/logos').'/logo.png', [
                               'as' => 'logo.png',
                               'mime' => 'image/png',
                     ]);
