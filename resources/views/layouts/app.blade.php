@@ -9,6 +9,8 @@
     <meta name="author" content="">
 
     <title>CTC Indumentaria | @yield('title')</title>
+    <link rel="shortcut icon" href="{{ asset('images/logos/favicon.ico') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('images/logos/favicon.ico') }}" type="image/x-icon">
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -99,36 +101,43 @@ https://templatemo.com/tm-567-nomad-force
     <section class=" contact section-padding" id="contact">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-lg-7 col-12 mx-auto">
 
                     <h2 class="mb-4 text-center" data-aos="fade-up">Envíanos un mensaje</h2>
 
-                    <form class="contact-form" role="form" data-aos="fade-up" action="{{ route('sendemail') }}" method="POST">
+                    <form class="contact-form" role="form" data-aos="fade-up" action="{{ route('sendemail') }}"
+                        method="POST">
                         {{ csrf_field() }}
                         <div class="row">
-                            
-                            <div class="col-lg-6 col-6">
-                                <label for="nombre" class="form-label">Nombre <sup class="text-danger">*</sup></label>
 
-                                <input type="text" name="nombre" id="name" class="form-control" placeholder="Nombre completo" required>
+                            <div class="col-lg-6 col-6">
+                                <label for="nombre" class="form-label">Nombre <sup
+                                        class="text-danger">*</sup></label>
+
+                                <input type="text" name="nombre" id="name" class="form-control"
+                                    placeholder="Nombre completo" required>
                             </div>
 
                             <div class="col-lg-6 col-6">
-                                <label for="email" class="form-label">Email <sup class="text-danger">*</sup></label>
+                                <label for="email" class="form-label">Email <sup
+                                        class="text-danger">*</sup></label>
 
-                                <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Dirección de email" required>
+                                <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*"
+                                    class="form-control" placeholder="Dirección de email" required>
                             </div>
 
                             <div class="col-12 my-4">
                                 <label for="message" class="form-label">¿Cómo podemos ayudarte?</label>
 
-                                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Contanos acerca del proyecto" required></textarea>
-                                
+                                <textarea name="message" rows="6" class="form-control" id="message"
+                                    placeholder="Contanos acerca del proyecto" required></textarea>
+
                             </div>
 
                             <div class="col-12">
-                                <label for="services" class="form-label">Servicios<sup class="text-danger">*</sup></label>
+                                <label for="services" class="form-label">Servicios<sup
+                                        class="text-danger">*</sup></label>
                             </div>
 
                             <div class="col-lg-4 col-12">
@@ -136,7 +145,7 @@ https://templatemo.com/tm-567-nomad-force
                                     <input type="checkbox" id="checkbox1" name="indumentaria" class="form-check-input">
 
                                     <label class="form-check-label" for="indumentaria">Indumentaria</label>
-                                  </div>
+                                </div>
                             </div>
 
                             <div class="col-lg-4 col-12 my-2 my-lg-0">
@@ -144,7 +153,7 @@ https://templatemo.com/tm-567-nomad-force
                                     <input type="checkbox" id="checkbox2" name="diseño" class="form-check-input">
 
                                     <label class="form-check-label" for="diseño">Diseño</label>
-                                  </div>
+                                </div>
                             </div>
 
                             <div class="col-lg-4 col-12">
@@ -152,7 +161,7 @@ https://templatemo.com/tm-567-nomad-force
                                     <input type="checkbox" id="checkbox3" name="bordado" class="form-check-input">
 
                                     <label class="form-check-label" for="bordado">Bordado</label>
-                                  </div>
+                                </div>
                             </div>
                         </div>
 
@@ -164,7 +173,7 @@ https://templatemo.com/tm-567-nomad-force
 
             </div>
         </div>
-    </section> 
+    </section>
     <!-- fin formulario de contacto -->
     <section class="google-map">
         <iframe
@@ -183,9 +192,10 @@ https://templatemo.com/tm-567-nomad-force
                     </h5>
                     <h6 class="text-white">Entre Ríos - Argentina </h6>
                     <h6 class="text-white">
-                         <span><a href="tel:+543434354568"><i class="bi bi-telephone"></i> (+54) 343 435 4568  interno 20</a></span>
+                        <span><a href="tel:+543434354568"><i class="bi bi-telephone"></i> (+54) 343 435 4568 interno
+                                20</a></span>
                     </h6>
-                    <a href="mailto:info@coooperativadelcentro.coop.ar" class="custom-link mt-3 mb-5">                        
+                    <a href="mailto:info@coooperativadelcentro.coop.ar" class="custom-link mt-3 mb-5">
                         <i class="bi bi-envelope"></i>
                         info@cooperativadelcentro.coop.ar
                     </a>
@@ -197,21 +207,22 @@ https://templatemo.com/tm-567-nomad-force
 
                 <div class="col-lg-4 text-center mt-lg-0 mt-3">
                     <ul class="social-icon">
-                        <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" style="font-size: 2rem;" target="_blank"
-                                rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
+                        <li><a href="https://www.facebook.com/cooperativadetrabajodelcentro/" style="font-size: 2rem;"
+                                target="_blank" rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
 
                         <!-- <li><a href="#" class="social-icon-link bi-twitter"></a></li> -->
                         <!--        
                         <li><a href="https://api.whatsapp.com/send?phone=3435127861" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-whatsapp"></a></li>
 
-                        -->        
+                        -->
 
-                        <li><a href="https://www.instagram.com/ctc_indumentaria" style="font-size: 2rem;" target="_blank"
-                                rel="noopener noreferrer" class="social-icon-link bi-instagram"></a></li>
+                        <li><a href="https://www.instagram.com/ctc_indumentaria" style="font-size: 2rem;"
+                                target="_blank" rel="noopener noreferrer" class="social-icon-link bi-instagram"
+                                alt="Instagram"></a></li>
 
-                        <li><a href="https://www.youtube.com/channel/UC5S06nd1bi7Jhu6LB42OtwA" style="font-size: 2rem;" target="_blank"
-                                rel="noopener noreferrer" class="social-icon-link bi-youtube"></a></li>
+                        <li><a href="https://www.youtube.com/channel/UC5S06nd1bi7Jhu6LB42OtwA" style="font-size: 2rem;"
+                                target="_blank" rel="noopener noreferrer" class="social-icon-link bi-youtube"></a></li>
                     </ul>
                 </div>
 
