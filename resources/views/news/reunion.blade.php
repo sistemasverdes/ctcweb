@@ -39,8 +39,9 @@
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.cooperativadelcentro.coop.ar/noticias/reunion_ministro" class="social-share-icon bi-facebook" data-aos="zoom-in"></a>
 
                     <a href="https://twitter.com/intent/tweet?text=Reunión%20con%20el%20Ministro%20de%20Defensa%20enlace%20para%20compartir%20en%20Twitter&url=http%3A%2F%2Fwww.cooperativadelcentro.coop.ar%2Fnoticias%2Freunion_ministro&via=CTC%20Indumentaria&hashtags=noticias" target="_blank" class="social-share-icon bi-twitter mx-3" data-aos="zoom-in"></a>
-
+                    <!--
                     <a href="#" class="social-share-icon bi-envelope" data-aos="zoom-in"></a>
+                    -->
                 </div>
             </div>
 
