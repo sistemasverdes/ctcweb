@@ -220,20 +220,19 @@
 
                     <div class="col-lg-6 col-12 mb-5 mb-lg-0">
                         <div class="news-thumb" data-aos="fade-up">
-                            <a href="news-detail.html" class="news-image-hover news-image-hover-warning">
-                                <img src="{{ asset('images/news/caroline-lm-uqveD8dYPUM-unsplash.jpg') }}"
+                            <a href="<?php echo route('reunion.ministro'); ?>" class="news-image-hover news-image-hover-warning">
+                                <img src="{{ asset('images/news/defensa1.jpeg') }}"
                                     class="img-fluid large-news-image news-image" alt="">
                             </a>
 
-                            <div class="news-category bg-warning text-white">News</div>
+                            <div class="news-category bg-warning text-white">Noticias</div>
 
                             <div class="news-text-info">
                                 <h5 class="news-title">
-                                    <a href="news-detail.html" class="news-title-link">The rise of the gig economy spells
-                                        the end for these workers the old system</a>
+                                    <a href="<?php echo route('reunion.ministro'); ?>" class="news-title-link">Reunión con el Ministro de Defensa de la Nación, Jorge Taiana </a>
                                 </h5>
 
-                                <span class="text-muted">22 hours ago</span>
+                                <span class="text-muted">24 de Enero</span>
                             </div>
                         </div>
                     </div>

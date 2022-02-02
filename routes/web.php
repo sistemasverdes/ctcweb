@@ -25,4 +25,8 @@ Route::get('/documentacion', function (){
     return view('documentacion');
 })->name('documentacion');
 
+Route::get('/noticias/reunion_ministro', function (){
+    return view('news/reunion');
+})->name('reunion.ministro');
+
 Route::post('/email/send', MailController::class)->name('sendemail');
