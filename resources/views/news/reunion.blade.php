@@ -16,7 +16,7 @@
                         <figure class="figure">
                             <img src="{{ asset('images/news/defensa3.jpeg') }}" class="img-fluid news-image" alt="">
 
-                            <figcaption class="figure-caption text-end">Diego Gomez presidente de CTC junto A Jorge Taiana.</figcaption>
+                            <figcaption class="figure-caption text-end">Diego Gomez representando CTC junto A Jorge Taiana.</figcaption>
                         </figure>
                     </div>
 
