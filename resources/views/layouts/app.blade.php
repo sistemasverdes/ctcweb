@@ -231,7 +231,32 @@ https://templatemo.com/tm-567-nomad-force
                 <class="copyright-text mb-0 text-center">Copyright © CTC 2022
                     </class="copyright-text mb-0">
             </div>
-            </section>
+            <div style="filter: grayscale(100%);">
+                <img src="{{ asset('images/partners/sanluis_gobierno.png') }}" alt="">
+                <img src="{{ asset('images/partners/santafe_capital.png') }}" alt="">
+                <img src="{{ asset('images/partners/municipalidad_parana.png') }}" alt="">
+                <img src="{{ asset('images/partners/crespo_muni.png') }}" alt="">
+                <img src="{{ asset('images/partners/concordia_muni.png') }}" alt="">
+            </div>
+            <div style="filter: grayscale(100%);">
+                <img src="{{ asset('images/partners/er_salud.png') }}" alt="">
+                <img src="{{ asset('images/partners/gobierno_entrerios.png') }}" alt="">
+                <img src="{{ asset('images/partners/municipalidad_cordoba.png') }}" alt="">
+                <img src="{{ asset('images/partners/cnrt_control_transporte.png') }}" alt="">
+                <img src="{{ asset('images/partners/vialidad_nacional.png') }}" alt="">
+                <img src="{{ asset('images/partners/pfa.png') }}" alt="">
+            </div>
+            <div style="filter: grayscale(100%);">
+                <img src="{{ asset('images/partners/stertz.png') }}" alt="">
+                <img src="{{ asset('images/partners/vercosa-logo.png') }}" alt="">
+                <img src="{{ asset('images/partners/tecnomet.png') }}" alt="">
+                <img src="{{ asset('images/partners/deharbe.png') }}" alt="">
+            </div>
+            <div style="filter: grayscale(100%);">
+                <img src="{{ asset('images/partners/elportal1.png') }}" alt="">
+                <img src="{{ asset('images/partners/radio_online_parana.png') }}" alt="">
+                <img src="{{ asset('images/partners/celmed.png') }}" alt="">
+            </div>
     </footer>
 
     <!-- JAVASCRIPT FILES -->
