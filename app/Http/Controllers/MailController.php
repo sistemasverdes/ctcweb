@@ -44,7 +44,8 @@ class MailController extends Controller
 
         $demo = new DemoEmail($objDemo);
         //var_dump($demo);die();
-        Mail::to("admin@cooperativadelcentro.coop.ar")->send($demo);        
+        //Mail::to("admin@cooperativadelcentro.coop.ar")->send($demo);        
+        Mail::to("julian.sistema@gmail.com")->send($demo);        
         
         if (count(Mail::failures()) == 0) {            
             return redirect('/')->withSuccess('Email enviado correctamente.');
