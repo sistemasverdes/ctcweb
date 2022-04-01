@@ -226,11 +226,31 @@ https://templatemo.com/tm-567-nomad-force
                 </div>
 
             </div>
+          
+            <div style="filter: grayscale(100%);"class="text-center">
+                <img src="{{ asset('images/partners/sanluis_gobierno.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/santafe_capital.png') }}" alt=""  class="px-3 py-1" >
+                <img src="{{ asset('images/partners/gobierno_entrerios.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/municipalidad_cordoba.png') }}" alt=""  class="px-3 py-1">
+            </div>
+            <div style="filter: grayscale(100%);" class="text-center">             
+                <img src="{{ asset('images/partners/er_salud.png') }}" alt=""  class="px-3 py-1" >
+                <img src="{{ asset('images/partners/municipalidad_parana.png') }}" alt=""  class="px-3 py-1">                
+                <img src="{{ asset('images/partners/cnrt_control_transporte.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/vialidad_nacional.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/pfa.png') }}" alt=""  class="px-3 py-1">
+            </div>
+            <div style="filter: grayscale(100%);" class="text-center">
+                <img src="{{ asset('images/partners/stertz.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/vercosa-logo.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/tecnomet.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/deharbe.png') }}" alt=""  class="px-3 py-1">
+            </div> 
+
             <div class="row text-center">
                 <class="copyright-text mb-0 text-center">Copyright © CTC 2022
                     </class="copyright-text mb-0">
             </div>
-            </section>
     </footer>
 
     <!-- JAVASCRIPT FILES -->
