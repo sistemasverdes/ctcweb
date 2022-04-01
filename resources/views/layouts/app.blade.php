@@ -243,8 +243,7 @@ https://templatemo.com/tm-567-nomad-force
                 <img src="{{ asset('images/partners/gobierno_entrerios.png') }}" alt="" class="px-3 py-1">
                 <img src="{{ asset('images/partners/municipalidad_cordoba.png') }}" alt="" class="px-3 py-1">
             </div>
-            <div style="filter: grayscale(100%);" class="text-center">
-                <img src="{{ asset('images/partners/er_salud.png') }}" alt="" class="px-3 py-1">
+            <div style="filter: grayscale(100%);" class="text-center">                
                 <img src="{{ asset('images/partners/municipalidad_parana.png') }}" alt="" class="px-3 py-1">
                 <img src="{{ asset('images/partners/cnrt_control_transporte.png') }}" alt="" class="px-3 py-1">
                 <img src="{{ asset('images/partners/vialidad_nacional.png') }}" alt="" class="px-3 py-1">
