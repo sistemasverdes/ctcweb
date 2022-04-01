@@ -273,7 +273,8 @@ https://templatemo.com/tm-567-nomad-force
     <script src="{{ asset('js/custom.js') }}"></script>
     <script>
         function onSubmit(token) {
-          document.getElementById("formulario").submit();
+          //document.getElementById("formulario").submit();
+          console.log('ok');
         }
       </script>
      
