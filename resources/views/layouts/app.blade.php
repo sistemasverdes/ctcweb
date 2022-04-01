@@ -29,6 +29,13 @@
     <link href="{{ asset('css/aos.css') }}" rel="stylesheet">
 
     <link href="{{ asset('css/templatemo-nomad-force.css') }}" rel="stylesheet">
+
+    <!--
+    Google recaptcha
+    -->
+
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
     <!--
 
 TemplateMo 567 Nomad Force
@@ -58,11 +65,11 @@ https://templatemo.com/tm-567-nomad-force
     @yield('video')
 
     <nav class="navbar navbar-expand-lg bg-light shadow-lg">
-        <div class="container">           
+        <div class="container">
             <a class="navbar-brand" href="<?php echo route('inicio'); ?>">
                 <strong>CTC Indumentaria</strong>
             </a>
-            
+
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -105,7 +112,7 @@ https://templatemo.com/tm-567-nomad-force
 
                     <h2 class="mb-4 text-center" data-aos="fade-up">Envíanos un mensaje</h2>
 
-                    <form class="contact-form" role="form" data-aos="fade-up" action="{{ route('sendemail') }}"
+                    <form id="formulario" class="contact-form" role="form" data-aos="fade-up" action="{{ route('sendemail') }}"
                         method="POST">
                         {{ csrf_field() }}
                         <div class="row">
@@ -129,8 +136,8 @@ https://templatemo.com/tm-567-nomad-force
                             <div class="col-12 my-4">
                                 <label for="message" class="form-label">¿Cómo podemos ayudarte?</label>
 
-                                <textarea name="message" rows="6" class="form-control" id="message"
-                                    placeholder="Contanos acerca del proyecto" required></textarea>
+                                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Contanos acerca del proyecto"
+                                    required></textarea>
 
                             </div>
 
@@ -165,7 +172,10 @@ https://templatemo.com/tm-567-nomad-force
                         </div>
 
                         <div class="col-lg-5 col-12 mx-auto mt-5">
-                            <button type="submit" class="form-control">Enviar Mensaje</button>
+                            <button class="g-recaptcha" 
+                                    data-sitekey="6LcmdzcfAAAAAKqPi9XvGTsGoYpsLqjAcVKskYdI" 
+                                    data-callback='onSubmit'
+                                    data-action='submit'>Enviar Mensaje</button>
                         </div>
                     </form>
                 </div>
@@ -210,7 +220,7 @@ https://templatemo.com/tm-567-nomad-force
                                 target="_blank" rel="noopener noreferrer" class="social-icon-link bi-facebook"></a></li>
 
                         <!-- <li><a href="#" class="social-icon-link bi-twitter"></a></li> -->
-                        <!--        
+                        <!--
                         <li><a href="https://api.whatsapp.com/send?phone=3435127861" style="font-size: 2rem;" target="_blank"
                                 rel="noopener noreferrer" class="social-icon-link bi-whatsapp"></a></li>
 
@@ -226,26 +236,26 @@ https://templatemo.com/tm-567-nomad-force
                 </div>
 
             </div>
-          
-            <div style="filter: grayscale(100%);"class="text-center">
+
+            <div style="filter: grayscale(100%);" class="text-center">
                 <img src="{{ asset('images/partners/sanluis_gobierno.png') }}" alt="" class="px-3 py-1">
-                <img src="{{ asset('images/partners/santafe_capital.png') }}" alt=""  class="px-3 py-1" >
-                <img src="{{ asset('images/partners/gobierno_entrerios.png') }}" alt=""  class="px-3 py-1">
-                <img src="{{ asset('images/partners/municipalidad_cordoba.png') }}" alt=""  class="px-3 py-1">
-            </div>
-            <div style="filter: grayscale(100%);" class="text-center">             
-                <img src="{{ asset('images/partners/er_salud.png') }}" alt=""  class="px-3 py-1" >
-                <img src="{{ asset('images/partners/municipalidad_parana.png') }}" alt=""  class="px-3 py-1">                
-                <img src="{{ asset('images/partners/cnrt_control_transporte.png') }}" alt=""  class="px-3 py-1">
-                <img src="{{ asset('images/partners/vialidad_nacional.png') }}" alt=""  class="px-3 py-1">
-                <img src="{{ asset('images/partners/pfa.png') }}" alt=""  class="px-3 py-1">
+                <img src="{{ asset('images/partners/santafe_capital.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/gobierno_entrerios.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/municipalidad_cordoba.png') }}" alt="" class="px-3 py-1">
             </div>
             <div style="filter: grayscale(100%);" class="text-center">
-                <img src="{{ asset('images/partners/stertz.png') }}" alt=""  class="px-3 py-1">
-                <img src="{{ asset('images/partners/vercosa-logo.png') }}" alt=""  class="px-3 py-1">
-                <img src="{{ asset('images/partners/tecnomet.png') }}" alt=""  class="px-3 py-1">
-                <img src="{{ asset('images/partners/deharbe.png') }}" alt=""  class="px-3 py-1">
-            </div> 
+                <img src="{{ asset('images/partners/er_salud.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/municipalidad_parana.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/cnrt_control_transporte.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/vialidad_nacional.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/pfa.png') }}" alt="" class="px-3 py-1">
+            </div>
+            <div style="filter: grayscale(100%);" class="text-center">
+                <img src="{{ asset('images/partners/stertz.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/vercosa-logo.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/tecnomet.png') }}" alt="" class="px-3 py-1">
+                <img src="{{ asset('images/partners/deharbe.png') }}" alt="" class="px-3 py-1">
+            </div>
 
             <div class="row text-center">
                 <class="copyright-text mb-0 text-center">Copyright © CTC 2022
@@ -262,6 +272,12 @@ https://templatemo.com/tm-567-nomad-force
     <script src="{{ asset('js/magnific-popup-options.js') }}"></script>
     <script src="{{ asset('js/scrollspy.min.js') }}"></script>
     <script src="{{ asset('js/custom.js') }}"></script>
+    <script>
+        function onSubmit(token) {
+          document.getElementById("formulario").submit();
+        }
+      </script>
+     
 
 </body>
 
