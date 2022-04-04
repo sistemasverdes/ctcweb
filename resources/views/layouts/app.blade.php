@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Cooperativa de Trabajo del centro LTDA">
+    <meta name="author" content="Julián Díaz">
 
     <title>CTC Indumentaria | @yield('title')</title>
     <link rel="shortcut icon" href="{{ asset('images/logos/favicon.ico') }}" type="image/x-icon">
