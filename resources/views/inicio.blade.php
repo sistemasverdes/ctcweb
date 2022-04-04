@@ -229,7 +229,7 @@
 
                             <div class="news-text-info">
                                 <h5 class="news-title">
-                                    <a href="<?php echo route('reunion.ministro'); ?>" class="news-title-link"> Recibimos la visita del Ministerio de Defensa </a>
+                                    <a href="<?php echo route('visita.defensa'); ?>" class="news-title-link"> Recibimos la visita del Ministerio de Defensa </a>
                                 </h5>
 
                                 <span class="text-muted">31 de Marzo</span>
