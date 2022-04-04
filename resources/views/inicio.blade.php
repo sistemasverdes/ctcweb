@@ -236,7 +236,7 @@
                             </div>
                         </div>
                     </div>
-
+                     <!-- noticias viejas -->
                     <div class="col-lg-6 col-12">
                         <div class="news-thumb news-two-column d-flex flex-column flex-lg-row" data-aos="fade-up">
                             <div class="news-top w-100">
@@ -267,26 +267,25 @@
                                 </div>
                             </div>
                         </div>
-
+                       
                         <div class="news-thumb news-two-column d-flex flex-column flex-lg-row" data-aos="fade-up">
                             <div class="news-top w-100" data-aos="fade-up">
 
-                                <a href="news-detail.html" class="news-image-hover news-image-hover-success">
-                                    <img src="{{ asset('images/news/maria-stewart-p4tj0g-_aMM-unsplash.jpeg') }}"
+                                <a href="<?php echo route('reunion.ministro'); ?>" class="news-image-hover news-image-hover-success">
+                                    <img src="{{ asset('images/news/defensa1.jpeg') }}"
                                         class="img-fluid news-image" alt="">
                                 </a>
 
-                                <div class="news-category bg-success text-white">News</div>
+                                <div class="news-category bg-success text-white">Noticias</div>
                             </div>
 
                             <div class="news-bottom w-100">
                                 <div class="news-text-info">
                                     <h5 class="news-title">
-                                        <a href="news-detail.html" class="news-title-link">What happened to new viral
-                                            video?</a>
+                                        <a href="<?php echo route('reunion.ministro'); ?>" class="news-title-link">Reunión con el Ministro de Defensa de la Nación, Jorge Taiana</a>
                                     </h5>
 
-                                    <span class="text-muted">6 days ago</span>
+                                    <span class="text-muted">24 de Enero</span>
                                 </div>
                             </div>
                         </div>
