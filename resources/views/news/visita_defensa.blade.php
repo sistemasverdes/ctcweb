@@ -54,10 +54,10 @@
                     <div class="social-share d-flex mt-5">
                         <span class="me-4" data-aos="zoom-in">Comparta este artículo:</span>
 
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.cooperativadelcentro.coop.ar/noticias/visita_defensa"
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cooperativadelcentro.coop.ar/noticias/zohehttps://www.cooperativadelcentro.coop.ar/noticias/visita_defensa"
                             class="social-share-icon bi-facebook" data-aos="zoom-in"></a>
 
-                        <a href="https://twitter.com/intent/tweet?text=Visita%%20el%20Ministerio%20de%20Defensa&url=http%3A%2F%2Fwww.cooperativadelcentro.coop.ar%2Fnoticias%2Fvisita_defensa&via=CTC%20Indumentaria&hashtags=noticias"
+                        <a href="https://twitter.com/intent/tweet?url=https://www.cooperativadelcentro.coop.ar/noticias/zohe&text="
                             target="_blank" class="social-share-icon bi-twitter mx-3" data-aos="zoom-in"></a>
                         <!--
                             <a href="#" class="social-share-icon bi-envelope" data-aos="zoom-in"></a>
