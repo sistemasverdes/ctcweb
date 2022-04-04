@@ -9,16 +9,12 @@
 
                     <p class="me-4" data-aos="fade-up">El día 28 de Febrero del corriente pudimos darnos el gusto
                         de incorporar una nueva máquina para el Taller.
-                        Se trata de una Maquina automatica programable para patrones <a
+                        Se trata de una Máquina automatica programable para patrones <a
                             href="https://casaruere.com.ar/producto/maquina-automatica-zoje-zj-am5-ah-rk800/"><strong>ZOJE
                                 ZJ-AM5-AH-RK800</strong></a>, tiene la
                             particularidad de utilizarse en diferentes procesos de costura como la fabricacion de cuellos,
                             puños, pegado de bolsillo, pegado de cierres, pegado de apliques, matelaseado, pinzas, bordado,
-                            etc.
-                            Todas estas aplicaciones se logran de forma facil pudiendo realizar varias piezas en un solo
-                            proceso
-                            de costura, como ejemplo se pueden realizar 6 puños de camisa de una sola vez, además la maquina
-                            incluye un laser inferior para el proceso de corte.</p>
+                            etc.</p>
 
                     <p data-apps="fade-up">Para ilustrar al lector que no está al tanto de esta tecnología, 
                         la ventaja que provee la Zohe es que se pueden cortar patrones de manera idéntica y exacta al diseño creado.</p>
@@ -40,6 +36,11 @@
                            En este último caso un software especial crea el bordado y lo exporta a la Zohe con el fin de cargar el diseño con el que la prenda debe salir.
                         </p>
 
+                        <p>
+                            Todas estas aplicaciones se logran de forma facil pudiendo realizar varias piezas en un solo
+                            proceso de costura, como ejemplo se pueden realizar 6 puños de camisa de una sola vez, además la máquina
+                            incluye un laser inferior para el proceso de corte.
+                        </p>
                     </div>
 
                     <div class="clearfix my-4 mt-lg-0 mt-5">
