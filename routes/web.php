@@ -25,6 +25,9 @@ Route::get('/documentacion', function (){
     return view('documentacion');
 })->name('documentacion');
 
+Route::post('/email/send', MailController::class)->name('sendemail');
+
+// NOTICIAS
 Route::get('/noticias/reunion_ministro', function (){
     return view('news/reunion');
 })->name('reunion.ministro');
@@ -33,4 +36,6 @@ Route::get('/noticias/visita_defensa', function (){
     return view('news/visita_defensa');
 })->name('visita.defensa');
 
-Route::post('/email/send', MailController::class)->name('sendemail');
+Route::get('/noticias/zohe', function (){
+    return view('news/zohe');
+})->name('zohe');

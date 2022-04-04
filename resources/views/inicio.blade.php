@@ -220,8 +220,8 @@
 
                     <div class="col-lg-6 col-12 mb-5 mb-lg-0">
                         <div class="news-thumb" data-aos="fade-up">
-                            <a href="<?php echo route('reunion.ministro'); ?>" class="news-image-hover news-image-hover-warning">
-                                <img src="{{ asset('images/news/defensa1.jpeg') }}"
+                            <a href="<?php echo route('visita.defensa'); ?>" class="news-image-hover news-image-hover-warning">
+                                <img src="{{ asset('images/news/visita1.jpg') }}"
                                     class="img-fluid large-news-image news-image" alt="">
                             </a>
 
@@ -229,10 +229,10 @@
 
                             <div class="news-text-info">
                                 <h5 class="news-title">
-                                    <a href="<?php echo route('reunion.ministro'); ?>" class="news-title-link">Reunión con el Ministro de Defensa de la Nación, Jorge Taiana </a>
+                                    <a href="<?php echo route('reunion.ministro'); ?>" class="news-title-link"> Recibimos la visita del Ministerio de Defensa </a>
                                 </h5>
 
-                                <span class="text-muted">24 de Enero</span>
+                                <span class="text-muted">31 de Marzo</span>
                             </div>
                         </div>
                     </div>
@@ -241,29 +241,21 @@
                         <div class="news-thumb news-two-column d-flex flex-column flex-lg-row" data-aos="fade-up">
                             <div class="news-top w-100">
 
-                                <a href="news-detail.html" class="news-image-hover news-image-hover-primary">
-                                    <img src="{{ asset('images/news/jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg') }}"
+                                <a href="<?php echo route('zohe'); ?>" class="news-image-hover news-image-hover-primary">
+                                    <img src="{{ asset('images/news/zohe1.jpg') }}"
                                         class="img-fluid news-image" alt="">
                                 </a>
 
-                                <div class="news-category bg-primary text-white">Events</div>
+                                <div class="news-category bg-primary text-white">Noticias</div>
                             </div>
 
                             <div class="news-bottom w-100">
                                 <div class="news-text-info">
                                     <h5 class="news-title">
-                                        <a href="news-detail.html" class="news-title-link">Job Opportunities: Digital,
-                                            Marketing</a>
+                                        <a href="<?php echo route('zohe'); ?>"  class="news-title-link">Incorporamos nuevo equipamiento para el Taller</a>
                                     </h5>
 
-                                    <div class="d-flex flex-wrap">
-                                        <span class="text-muted me-2">
-                                            <i class="bi-geo-alt-fill me-1 mb-2 mb-lg-0"></i>
-                                            Alaska,
-                                        </span>
-
-                                        <span class="text-muted">August 6, 2021</span>
-                                    </div>
+                                    <span class="text-muted">28 de Febrero</span>
                                 </div>
                             </div>
                         </div>
