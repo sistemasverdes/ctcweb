@@ -7,17 +7,21 @@
                 <div class="col-lg-8 col-10 mx-auto">
                     <h2 class="mb-3" data-aos="fade-up">Incorporamos nuevo equipamiento para el Taller</h2>
 
-                    <p class="me-4" data-aos="fade-up">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Rerum corporis consequuntur reiciendis repudiandae explicabo debitis illo, aut suscipit tenetur
-                        tempore iusto dolores nostrum deleniti culpa, cumque, quasi et reprehenderit expedita?</p>
+                    <p class="me-4" data-aos="fade-up">El día 28 de Febrero del corriente pudimos darnos el gusto
+                        de incorporar una nueva máquina para el Taller.
+                        Se trata de una Maquina automatica programable para patrones <a
+                            href="https://casaruere.com.ar/producto/maquina-automatica-zoje-zj-am5-ah-rk800/"><strong>ZOJE
+                                ZJ-AM5-AH-RK800</strong></a>, tiene la
+                            particularidad de utilizarse en diferentes procesos de costura como la fabricacion de cuellos,
+                            puños, pegado de bolsillo, pegado de cierres, pegado de apliques, matelaseado, pinzas, bordado,
+                            etc.
+                            Todas estas aplicaciones se logran de forma facil pudiendo realizar varias piezas en un solo
+                            proceso
+                            de costura, como ejemplo se pueden realizar 6 puños de camisa de una sola vez, además la maquina
+                            incluye un laser inferior para el proceso de corte.</p>
 
-                    <p data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quos quia, et
-                        neque praesentium minus officia dolor! Consectetur culpa blanditiis quibusdam maiores iure nisi
-                        deserunt nesciunt a quam! Deserunt, ad.
-                    </p>
-                    <p data-apps="fade-up">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi labore maiores
-                        ad eos quo. Tenetur, aliquam dicta commodi quae nam itaque, placeat sed doloremque provident ipsam
-                        ab alias rerum fugiat.</p>
+                    <p data-apps="fade-up">Para ilustrar al lector que no está al tanto de esta tecnología, 
+                        la ventaja que provee la Zohe es que se pueden cortar patrones de manera idéntica y exacta al diseño creado.</p>
                     <div class="clearfix my-4 mt-lg-0 mt-5">
                         <div class="col-md-6 float-md-end mb-3 ms-md-3" data-aos="fade-up">
                             <figure class="figure">
@@ -26,21 +30,14 @@
                         </div>
 
                         <p data-aos="fade-up">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus et magnam debitis eius,
-                            explicabo in dolorum, nemo omnis ad repellendus, fuga aspernatur exercitationem praesentium
-                            nihil necessitatibus sunt minima incidunt? Necessitatibus.
+                            "La máquina al tener un trabajo programado por computadora, en todas las prendas se realiza el mismo proceso de manera milimétrica, 
+                             limpia, prolija y exacta" señala el asociado
+                            <strong>Juan José Elizalde</strong>, Encargado de Mantenimiento de Máquinas en el Taller.
                         </p>
 
                         <p data-aos="fade-up">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eligendi culpa omnis fugiat ea
-                            quis dolorem doloremque asperiores natus, expedita temporibus totam et labore suscipit obcaecati
-                            iure nobis, unde laborum.
-                        </p>
-
-                        <p data-aos="fade-up">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident explicabo eaque nam debitis
-                            id! Eos nisi fugiat voluptatibus quisquam a officia animi amet dicta. Magnam harum fuga vitae
-                            cum omnis?
+                           Adicionalmente la máquina tiene un panel táctil, pudiendose crear el diseño desde el mismo. Estás máquinas funcionan como bordadoras si fuera necesario. 
+                           En este último caso un software especial crea el bordado y lo exporta a la Zohe con el fin de cargar el diseño con el que la prenda debe salir.
                         </p>
 
                     </div>
@@ -53,9 +50,9 @@
                         </div>
 
                         <p data-aos="fade-up">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident explicabo eaque nam debitis
-                            id! Eos nisi fugiat voluptatibus quisquam a officia animi amet dicta. Magnam harum fuga vitae
-                            cum omnis?
+                            Para finalizar, desde la Redacción nos preguntamos que tanto incrementa la producción como para tener una representación de la importancía de la nueva adquisición.
+                            Nos detallan que "es dificil especificar un número ya que hay muchas variables involucradas,  ya que no es lo mismo coser una tapita de 10x5 que un chaleco de 50x70cm
+                            pero podemos afirmar que la máquina está haciendo entre 700 y 800 prendas por día".
                         </p>
 
                     </div>
@@ -69,8 +66,8 @@
                         <a href="https://twitter.com/intent/tweet?text=Reunión%20con%20el%20Ministro%20de%20Defensa%20enlace%20para%20compartir%20en%20Twitter&url=http%3A%2F%2Fwww.cooperativadelcentro.coop.ar%2Fnoticias%2Freunion_ministro&via=CTC%20Indumentaria&hashtags=noticias"
                             target="_blank" class="social-share-icon bi-twitter mx-3" data-aos="zoom-in"></a>
                         <!--
-                        <a href="#" class="social-share-icon bi-envelope" data-aos="zoom-in"></a>
-                        -->
+                                <a href="#" class="social-share-icon bi-envelope" data-aos="zoom-in"></a>
+                                -->
                     </div>
                 </div>
 
