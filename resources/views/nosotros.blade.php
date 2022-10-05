@@ -144,16 +144,12 @@
                         oneroso sistema Antiincendio compuesto por un un tanque de reserva de agua de 10.000 litros,
                         tres bombas, cañería especifica, mangueras de emergencia, rehacer casi toda la instalación
                         eléctrica, sensores de alarma de humo.<br>
-                        Como siempre en su momento costo mucho decidirse porque "es un montón de plata, y parecía mejor
-                        repartirla o comprar máquinas para producir mejor".<br>
                         Pero al final, claro que vale la pena, porque a la larga, es nuestra segunda casa, y aunque
                         parezca frase armada, lo más importante es la salud y la seguridad de todos.
                         En parte por suerte, gracias a Dios, y también por ser prevenidos y cuidadosos, en los años que
                         venimos trabajando ininterrumpidamente en este lugar no hemos tenido que lamentar ningún
                         accidente ni cerca de grave, mas allá de algún pinchazo de aguja en los dedos. Tocamos madera.
                         Pero esa Habilitación Municipal, nos abrió también nuevas puertas:<br>
-                        – No teníamos que estar más sin llamar la atención, para que no nos caiga una inspección
-                        municipal y nos clausure por falta de habilitación, un miedo que siempre teníamos latente.<br>
                         – Pudimos contratar un seguro colectivo de accidente personales, que nos cubre en esos casos y
                         que antes las aseguradoras se negaban, por no tener precisamente esa habilitación.<br>
                         – A partir ahí pudimos inscribirnos como Proveedor del Estado en Municipios y Provincias, en las
