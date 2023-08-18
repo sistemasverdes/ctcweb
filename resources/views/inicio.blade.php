@@ -29,6 +29,9 @@
             <div class="row">
                 <div class="col-12">
                     <h2 class="mb-3" data-aos="fade-up">Nosotros</h2>
+                    <div class="col-lg-12 p-0">      
+                            <img src="{{ asset('images/portadafb.png') }}" class="img-fluid about-image d-none d-md-block" alt="">
+                    </div>
                 </div>
 
                 <div class="col-lg-6 col-12 mt-3 mb-lg-5">

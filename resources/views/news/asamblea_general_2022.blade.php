@@ -14,9 +14,12 @@
                         En este artículo, exploraremos el significado y la importancia de la asamblea general en una cooperativa de trabajo, y contaremos cómo transcurrió la Asamblea General 2022 desarrollada el 31 de Diciembre pasado.
                     </p>
 
-                    <h5> </h5>    
-                    <p data-apps="fade-up">Para ilustrar al lector que no está al tanto de esta tecnología, 
-                        la ventaja que provee la Zohe es que se pueden cortar patrones de manera idéntica y exacta al diseño creado.</p>
+                    <h5>Preparativos y Espíritu de Comunidad</h5>    
+                    <p data-apps="fade-up">
+                        Las semanas previas a la asamblea fueron un torbellino de actividad. Los Asociados de la cooperativa se reunieron en grupos de trabajo para preparar informes financieros,
+                         presentaciones de proyectos y propuestas de nuevos emprendimientos. El aire estaba cargado de anticipación y emoción, ya que los miembros compartían ideas y trabajaban juntos en 
+                         pos del éxito colectivo.        
+                    </p>
                     <div class="clearfix my-4 mt-lg-0 mt-5">
                         <div class="col-md-6 float-md-end mb-3 ms-md-3" data-aos="fade-up">
                             <figure class="figure">
@@ -24,26 +27,28 @@
                             </figure>
                     </div>
                     
-                    <h5> </h5>
+                    <h5>Apertura con Palabras de Bienvenida y Valores Cooperativos</h5>
                     <p data-aos="fade-up">
-                            "La máquina al tener un trabajo programado por computadora, en todas las prendas se realiza el mismo proceso de manera milimétrica, 
-                             limpia, prolija y exacta" señala el asociado
-                            <strong>Juan José Elizalde</strong>, Encargado de Mantenimiento de Máquinas en el Taller.
+                        La asamblea comenzó con una cálida bienvenida por parte del presidente, Gustavo Romero. 
+                        En su discurso, Gustavo destacó los valores fundamentales de la cooperativa: la solidaridad, la equidad y la participación. 
+                        Esta apertura estableció el tono para la jornada y recordó a todos los presentes el propósito y la misión que los unía.
                     </p>
                     
                     
-                    <h5> </h5>
+                    <h5>Presentación de Informes y Logros del Año</h5>
                     <p data-aos="fade-up">
-                           Adicionalmente la máquina tiene un panel táctil, pudiendose crear el diseño desde el mismo. Estás máquinas funcionan como bordadoras si fuera necesario. 
-                           En este último caso un software especial crea el bordado y lo exporta a la Zohe con el fin de cargar el diseño con el que la prenda debe salir.
+                        Una serie de presentaciones siguieron a la apertura. Los líderes de los diferentes departamentos presentaron informes detallados sobre los logros y desafíos del año anterior. 
+                        Se destacaron los crecimientos en ventas, las iniciativas de responsabilidad social y las colaboraciones exitosas con otras organizaciones. 
+                        Los miembros asintieron en aprobación y algunos aplaudieron los éxitos alcanzados.
                     </p>
 
                     
-                    <h5> </h5>
+                    <h5>Conclusión</h5>
                     <p>
-                            Todas estas aplicaciones se logran de forma facil pudiendo realizar varias piezas en un solo
-                            proceso de costura, como ejemplo se pueden realizar 6 puños de camisa de una sola vez, además la máquina
-                            incluye un laser inferior para el proceso de corte.
+                        La asamblea general en una cooperativa de trabajo es el reflejo de la verdadera esencia del trabajo colectivo y la solidaridad. 
+                        Es un espacio en el que las voces convergen, las ideas se entrelazan y las decisiones se toman con el bienestar de todos en mente. 
+                        En un mundo donde la toma de decisiones a menudo está centralizada, la asamblea general sigue siendo un faro de participación, empoderamiento y construcción 
+                        de un futuro en común. Desde la Redacción festejamos poder haber terminado un año muy duro y exigente y encarar nuevos proyectos para el año que está llegando.
                         </p>
                     </div>
 
