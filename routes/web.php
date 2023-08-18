@@ -39,3 +39,15 @@ Route::get('/noticias/visita_defensa', function (){
 Route::get('/noticias/zohe', function (){
     return view('news/zohe');
 })->name('zohe');
+
+Route::get('/noticias/20221001', function (){
+    return view('news/robot_corte');
+})->name('robot.corte');
+
+Route::get('/noticias/20221231', function (){
+    return view('news/asamblea_general_2022');
+})->name('asamblea.general.2022');
+
+Route::get('/noticias/20230615', function (){
+    return view('news/visita_strata');
+})->name('visita.strata');
