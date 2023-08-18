@@ -257,7 +257,7 @@ https://templatemo.com/tm-567-nomad-force
             </div>
 
             <div class="row text-center">
-                <class="copyright-text mb-0 text-center">Copyright © CTC 2022
+                <class="copyright-text mb-0 text-center">Copyright © CTC 2023
                     </class="copyright-text mb-0">
             </div>
     </footer>

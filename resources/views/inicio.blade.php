@@ -220,8 +220,8 @@
 
                     <div class="col-lg-6 col-12 mb-5 mb-lg-0">
                         <div class="news-thumb" data-aos="fade-up">
-                            <a href="<?php echo route('visita.defensa'); ?>" class="news-image-hover news-image-hover-warning">
-                                <img src="{{ asset('images/news/visita1.jpg') }}"
+                            <a href="<?php echo route('visita.strata'); ?>" class="news-image-hover news-image-hover-warning">
+                                <img src="{{ asset('images/news/strata_1.jpg') }}"
                                     class="img-fluid large-news-image news-image" alt="">
                             </a>
 
@@ -229,10 +229,10 @@
 
                             <div class="news-text-info">
                                 <h5 class="news-title">
-                                    <a href="<?php echo route('visita.defensa'); ?>" class="news-title-link"> Recibimos la visita del Ministerio de Defensa </a>
+                                    <a href="<?php echo route('visita.defensa'); ?>" class="news-title-link"> Recibimos la visita de Laura Strata</a>
                                 </h5>
 
-                                <span class="text-muted">31 de Marzo</span>
+                                <span class="text-muted">15 de Mayo</span>
                             </div>
                         </div>
                     </div>
@@ -241,8 +241,8 @@
                         <div class="news-thumb news-two-column d-flex flex-column flex-lg-row" data-aos="fade-up">
                             <div class="news-top w-100">
 
-                                <a href="<?php echo route('zohe'); ?>" class="news-image-hover news-image-hover-primary">
-                                    <img src="{{ asset('images/news/zohe1.jpg') }}"
+                                <a href="<?php echo route('robot.corte'); ?>" class="news-image-hover news-image-hover-primary">
+                                    <img src="{{ asset('images/news/robot_3.jpg') }}"
                                         class="img-fluid news-image" alt="">
                                 </a>
 
@@ -252,10 +252,10 @@
                             <div class="news-bottom w-100">
                                 <div class="news-text-info">
                                     <h5 class="news-title">
-                                        <a href="<?php echo route('zohe'); ?>"  class="news-title-link">Incorporamos nuevo equipamiento para el Taller</a>
+                                        <a href="<?php echo route('robot.corte'); ?>"  class="news-title-link">Recibimos y ponemos en valor el robot de corte</a>
                                     </h5>
 
-                                    <span class="text-muted">28 de Febrero</span>
+                                    <span class="text-muted">10 de Octubre</span>
                                 </div>
                             </div>
                         </div>
@@ -263,8 +263,8 @@
                         <div class="news-thumb news-two-column d-flex flex-column flex-lg-row" data-aos="fade-up">
                             <div class="news-top w-100" data-aos="fade-up">
 
-                                <a href="<?php echo route('reunion.ministro'); ?>" class="news-image-hover news-image-hover-success">
-                                    <img src="{{ asset('images/news/defensa1.jpeg') }}"
+                                <a href="<?php echo route('asamblea.general.2022'); ?>" class="news-image-hover news-image-hover-success">
+                                    <img src="{{ asset('images/news/asam_general_2022.png') }}"
                                         class="img-fluid news-image" alt="">
                                 </a>
 
@@ -274,10 +274,10 @@
                             <div class="news-bottom w-100">
                                 <div class="news-text-info">
                                     <h5 class="news-title">
-                                        <a href="<?php echo route('reunion.ministro'); ?>" class="news-title-link">Reunión con el Ministro de Defensa de la Nación, Jorge Taiana</a>
+                                        <a href="<?php echo route('asamblea.general.2022'); ?>" class="news-title-link">Llevamos a cabo la Asamblea General de Diciembre</a>
                                     </h5>
 
-                                    <span class="text-muted">24 de Enero</span>
+                                    <span class="text-muted">12 de Diciembre</span>
                                 </div>
                             </div>
                         </div>
