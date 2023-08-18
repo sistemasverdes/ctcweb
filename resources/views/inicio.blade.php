@@ -229,7 +229,7 @@
 
                             <div class="news-text-info">
                                 <h5 class="news-title">
-                                    <a href="<?php echo route('visita.strata'); ?>" class="news-title-link"> Recibimos la visita de Laura Strata</a>
+                                    <a href="<?php echo route('visita.strata'); ?>" class="news-title-link"> Recibimos la visita de Laura Stratta</a>
                                 </h5>
 
                                 <span class="text-muted">15 de Mayo</span>
